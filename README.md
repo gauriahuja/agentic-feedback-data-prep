@@ -32,12 +32,12 @@ persuasive-dialogue-nlp/
 ├── README.md
 
 
-## Installation
- **Install dependencies**:
+Installation
+ Install dependencies:
    ```bash
    pip install pandas transformers
 
-## How It Works
+ How It Works
 
 1. Load the dataset containing human dialogue (e.g., donation conversations).
 2. Sort and clean the conversations using pandas.
@@ -47,7 +47,7 @@ persuasive-dialogue-nlp/
    - Summary
    - Full cleaned conversation
 
-## Example Output
+Example Output
 
 Summary of the Conversation:
 The conversation includes polite greetings, followed by appeals to support children's charities. The donor is asked how much they would like to contribute and responds with a small donation. The interaction focuses on empathy and awareness.
@@ -58,13 +58,13 @@ Can I tell you all
 Very well, how about you?
 
 
-## Research Relevance
+Research Relevance
 This project is part of ongoing work in AI feedback systems, where LLM-powered agents guide users through negotiation or persuasion tasks by analyzing dialogue. The summarized outputs here are ready to be fed into agentic AI systems for personalized coaching and ethical decision support.
 
-## License
+License
 This project is for academic and research purposes under the University of Florida AI Systems Research Initiative.
 
-## Author
+Author
 Gauri Ahuja
 M.S. in Computer Science, University of Florida  
 [LinkedIn](https://linkedin.com/in/gauri777) | [Email](mailto:ahujagauri@ufl.edu)
