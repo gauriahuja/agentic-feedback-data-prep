@@ -1,0 +1,77 @@
+  
+Summary of the Conversation:
+Hello. Hello how are you? How are you doing? Hello, how's it going tonight? Hello. Hello, what do you think about St. Jude's? I am recommending that you donate to a kids charity. How much would you like to donate to the Save the Children charity today? How about you? # so we can save it as a proper output file that looks good
+
+Full Script:
+Hello how are
+Can I tell you all
+Very Well, How about you?
+Hey, how's it going tonight?
+How are you
+It's really nice outside where I am so I am sitting outdoors.
+Hi there!
+Hi how are you today?
+Yeah, what do you think about St Jude's?
+I am recommending that you donate to a kids charity
+Hi!
+Hello tell me something good
+hello
+I am not familiar with Save the Children
+I think I have once before, in a grocery store I believe
+Have you heard of an organization called Save the Children?
+Are you willing to donate to Save the Children charity from your pyament from this task?
+Hello.
+I'm alright and you?
+hello how are you
+I haven't!
+I think I would like to donate 5
+Hello, how much would you like to donate to the Save the Children charity today?
+HI there!
+Hello!
+okay..and how are you
+Hi, how are you today?
+I'm good, how are you doing?
+How are you?
+Hello.
+hi, how are you?
+Hello
+Yes I do.
+I am wondering if you regularly give to charity?
+it is great things to do
+We are collecting money for an important children's charity.
+Hi there, how's it going?
+Hey!
+You?
+I am doing well.
+wow that sounds like a problem
+Just found out there are tons of sick kids right now over seas that need help
+How are you doing today?
+Good morning!
+Good morning!
+Hi!
+hello
+Hi there!
+Do you feel it is improtant to help the children of the world to get them a good meal atleast 2 times a day
+hi how are you
+How are you?
+Doing good.
+Hi!
+Hi there, how are you doing today?
+hi how are you
+hello
+Hi, I'm great, how are you?
+Hello how are you today?
+Nutrition is important
+wow that is neat
+save the children is a non profit organization helping children around the world
+how are you today?
+hi
+I find it very fulfilling to give back
+Some what I familiar with charity.
+Hello, are you familiar with the charity: Save the Children?
+Could you please tell me more about this charity?
+I Was wondering if you would be interested in donating To a charity called Save the children?
+Hey!
+Hi.
+good thanks.What about you?
+I would perhaps be int
