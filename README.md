@@ -1,4 +1,4 @@
-# agentic-feedback-data-prep
+# Agentic-feedback-data-prep
  Persuasive Dialogue Summarization for Feedback Agent Training
 
 This project processes persuasive charity-related dialogue from the [Convokit "Persuasion for Good" dataset](https://convokit.cornell.edu/documentation/persuasionforgood.html) using Natural Language Processing (NLP). It generates structured conversation summaries to serve as input prompts for downstream agentic AI systems — especially feedback-driven agents trained to respond, coach, or recommend strategies based on conversation content.
