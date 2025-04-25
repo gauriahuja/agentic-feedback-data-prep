@@ -30,11 +30,9 @@ persuasive-dialogue-nlp/
 │   ├── summarized_dialogue_output.txt           # Final output with summaries and full conversation
 │
 ├── README.md
-```
 
----
 
-## ⚙Installation
+## Installation
  **Install dependencies**:
    ```bash
    pip install pandas transformers
@@ -60,13 +58,13 @@ Can I tell you all
 Very well, how about you?
 
 
-## 🔬 Research Relevance
+## Research Relevance
 This project is part of ongoing work in AI feedback systems, where LLM-powered agents guide users through negotiation or persuasion tasks by analyzing dialogue. The summarized outputs here are ready to be fed into agentic AI systems for personalized coaching and ethical decision support.
 
-## 📚 License
+## License
 This project is for academic and research purposes under the University of Florida AI Systems Research Initiative.
 
-## 👩‍💻 Author
-**Gauri Ahuja**  
+## Author
+Gauri Ahuja
 M.S. in Computer Science, University of Florida  
 [LinkedIn](https://linkedin.com/in/gauri777) | [Email](mailto:ahujagauri@ufl.edu)
